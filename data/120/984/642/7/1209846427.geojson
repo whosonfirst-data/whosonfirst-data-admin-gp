@@ -45,7 +45,7 @@
         "wk:page":"Palais-Sainte-Marguerite"
     },
     "wof:country":"GP",
-    "wof:geomhash":"23c1485bbdfd37da8e4a74e512657e42",
+    "wof:geomhash":"14048af6cf610053e24a07d8c086652e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     -61.39684000000001,
     16.3446
 ],
-  "geometry": {"coordinates":[-61.39684000000001,16.3446],"type":"Point"}
+  "geometry": {"coordinates":[-61.39684,16.3446],"type":"Point"}
 }

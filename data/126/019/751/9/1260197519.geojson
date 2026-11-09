@@ -44,7 +44,7 @@
         "gn:id":11546696
     },
     "wof:country":"GP",
-    "wof:geomhash":"5ef7fcca861a9224193ed6b87061a4b7",
+    "wof:geomhash":"7ba620dc1cf011cc82c5d0416d365490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     -61.49903000000001,
     16.24598
 ],
-  "geometry": {"coordinates":[-61.49903000000001,16.24598],"type":"Point"}
+  "geometry": {"coordinates":[-61.49903,16.24598],"type":"Point"}
 }

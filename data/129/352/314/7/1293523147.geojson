@@ -45,7 +45,7 @@
         "wk:page":"Lemercier%2C_Guadeloupe"
     },
     "wof:country":"GP",
-    "wof:geomhash":"b4ae7ce89f80dbd8b07e96f34b943705",
+    "wof:geomhash":"479fcc7aab79af7e36a44cb7a455482c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     -61.35469000000001,
     16.3292
 ],
-  "geometry": {"coordinates":[-61.35469000000001,16.3292],"type":"Point"}
+  "geometry": {"coordinates":[-61.35469,16.3292],"type":"Point"}
 }

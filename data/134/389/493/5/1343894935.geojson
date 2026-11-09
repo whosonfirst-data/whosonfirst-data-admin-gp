@@ -51,7 +51,7 @@
         "wk:page":"Guenette"
     },
     "wof:country":"GP",
-    "wof:geomhash":"e820e94b4dfb4bb4eb7e27123a2a36fe",
+    "wof:geomhash":"35c6989ae8fd2b1725abad94a49ac8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     -61.33507,
     16.32927999999999
 ],
-  "geometry": {"coordinates":[-61.33507,16.32927999999999],"type":"Point"}
+  "geometry": {"coordinates":[-61.33507,16.32928],"type":"Point"}
 }

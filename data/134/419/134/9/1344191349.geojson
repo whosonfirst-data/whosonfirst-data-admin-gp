@@ -106,7 +106,7 @@
         "wk:page":"Capesterre-de-Marie-Galante"
     },
     "wof:country":"GP",
-    "wof:geomhash":"856d5733dd2508b15e0f7f9916574055",
+    "wof:geomhash":"4dc0e45c1526794ed7020b4aa8e793bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -131,5 +131,5 @@
     -61.21666999999999,
     15.88333
 ],
-  "geometry": {"coordinates":[-61.21666999999999,15.88333],"type":"Point"}
+  "geometry": {"coordinates":[-61.21667,15.88333],"type":"Point"}
 }

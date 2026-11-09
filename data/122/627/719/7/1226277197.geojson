@@ -49,7 +49,7 @@
         "wk:page":"Chazeau"
     },
     "wof:country":"GP",
-    "wof:geomhash":"a4214e9cff778b5d34cf71fca8987ae5",
+    "wof:geomhash":"ad08f9959b74da2c1e8487efb509e80d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -61.45928000000001,
     16.29556
 ],
-  "geometry": {"coordinates":[-61.45928000000001,16.29556],"type":"Point"}
+  "geometry": {"coordinates":[-61.45928,16.29556],"type":"Point"}
 }

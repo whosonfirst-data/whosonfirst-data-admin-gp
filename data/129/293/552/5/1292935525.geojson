@@ -103,7 +103,7 @@
         "wk:page":"La_D%C3%A9sirade_%28commune%29"
     },
     "wof:country":"GP",
-    "wof:geomhash":"095caaff169c57ba53dcfd260ed33f59",
+    "wof:geomhash":"e7185d16558ab6abc009f50c4925497a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -128,5 +128,5 @@
     -61.03333000000001,
     16.31667
 ],
-  "geometry": {"coordinates":[-61.03333000000001,16.31667],"type":"Point"}
+  "geometry": {"coordinates":[-61.03333,16.31667],"type":"Point"}
 }
