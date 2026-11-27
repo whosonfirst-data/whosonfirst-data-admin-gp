@@ -1,0 +1,76 @@
+{
+  "id": 9895090281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59543,16.11758,-61.59543,16.11758",
+    "geom:latitude":16.11758,
+    "geom:longitude":-61.59543,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13437827: name \"Bonfils\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13437827"
+        },
+        {
+            "citation":"GeoNames populated place 13437827: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13437827"
+        },
+        {
+            "citation":"GeoNames populated place 13437827: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13437827"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 890445595 (Goyave), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671209,
+        102191581,
+        136253037,
+        890445595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13437827
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"aa6f684d85f51d5b4efa42ec9408ff17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890445595,
+            "locality_id":9895090281,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":9895090281,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Bonfils",
+    "wof:parent_id":890445595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59543,
+    16.11758,
+    -61.59543,
+    16.11758
+],
+  "geometry": {"coordinates":[-61.59543,16.11758],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895090284,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.6411,15.98167,-61.6411,15.98167",
+    "geom:latitude":15.98167,
+    "geom:longitude":-61.6411,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13437869: name \"Carbet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13437869"
+        },
+        {
+            "citation":"GeoNames populated place 13437869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13437869"
+        },
+        {
+            "citation":"GeoNames populated place 13437869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13437869"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 890420199 (Arrondissement de la Basse-Terre), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671209,
+        102191581,
+        136253037,
+        890420199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13437869
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9058b721b850edf1f8b01cf32760bbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890420199,
+            "locality_id":9895090284,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":9895090284,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Carbet",
+    "wof:parent_id":890420199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.6411,
+    15.98167,
+    -61.6411,
+    15.98167
+],
+  "geometry": {"coordinates":[-61.6411,15.98167],"type":"Point"}
+}

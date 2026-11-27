@@ -1,0 +1,71 @@
+{
+  "id": 9895090287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.4418,16.22112,-61.4418,16.22112",
+    "geom:latitude":16.22112,
+    "geom:longitude":-61.4418,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438007: name \"Providence\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438007"
+        },
+        {
+            "citation":"GeoNames populated place 13438007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438007"
+        },
+        {
+            "citation":"GeoNames populated place 13438007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438007"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372261 (Le Gosier), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125372261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438007
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"2650d598a4987b89214c67da75159ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125372261,
+            "locality_id":9895090287,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090287,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Providence",
+    "wof:parent_id":1125372261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.4418,
+    16.22112,
+    -61.4418,
+    16.22112
+],
+  "geometry": {"coordinates":[-61.4418,16.22112],"type":"Point"}
+}

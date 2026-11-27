@@ -1,0 +1,71 @@
+{
+  "id": 9895090297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45607,16.23865,-61.45607,16.23865",
+    "geom:latitude":16.23865,
+    "geom:longitude":-61.45607,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438110: name \"Montauban\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438110"
+        },
+        {
+            "citation":"GeoNames populated place 13438110: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438110"
+        },
+        {
+            "citation":"GeoNames populated place 13438110: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438110"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372261 (Le Gosier), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1125372261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438110
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"50677039d3277abda63abc121fd0b751",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125372261,
+            "locality_id":9895090297,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895090297,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Montauban",
+    "wof:parent_id":1125372261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45607,
+    16.23865,
+    -61.45607,
+    16.23865
+],
+  "geometry": {"coordinates":[-61.45607,16.23865],"type":"Point"}
+}

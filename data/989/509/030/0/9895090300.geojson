@@ -1,0 +1,76 @@
+{
+  "id": 9895090300,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.27462,15.93323,-61.27462,15.93323",
+    "geom:latitude":15.93323,
+    "geom:longitude":-61.27462,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13438129: name \"Murat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13438129"
+        },
+        {
+            "citation":"GeoNames populated place 13438129: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13438129"
+        },
+        {
+            "citation":"GeoNames populated place 13438129: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13438129"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 890453613 (Saint-Louis), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671209,
+        102191581,
+        136253037,
+        890453613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13438129
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6a070975ef4f51b4ef03bc83bb872ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890453613,
+            "locality_id":9895090300,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":9895090300,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Murat",
+    "wof:parent_id":890453613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.27462,
+    15.93323,
+    -61.27462,
+    15.93323
+],
+  "geometry": {"coordinates":[-61.27462,15.93323],"type":"Point"}
+}

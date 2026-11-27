@@ -1,0 +1,76 @@
+{
+  "id": 9895090282,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74209,16.02183,-61.74209,16.02183",
+    "geom:latitude":16.02183,
+    "geom:longitude":-61.74209,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13437865: name \"Cadet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13437865"
+        },
+        {
+            "citation":"GeoNames populated place 13437865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13437865"
+        },
+        {
+            "citation":"GeoNames populated place 13437865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13437865"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 890442739 (Baillif), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671209,
+        102191581,
+        136253037,
+        890442739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13437865
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9eb2216c96c625472fc711692e20face",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890442739,
+            "locality_id":9895090282,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":9895090282,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Cadet",
+    "wof:parent_id":890442739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74209,
+    16.02183,
+    -61.74209,
+    16.02183
+],
+  "geometry": {"coordinates":[-61.74209,16.02183],"type":"Point"}
+}

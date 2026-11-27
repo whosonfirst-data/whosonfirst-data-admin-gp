@@ -1,0 +1,77 @@
+{
+  "id": 9895090271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.07375,16.30413,-61.07375,16.30413",
+    "geom:latitude":16.30413,
+    "geom:longitude":-61.07375,
+    "gn:population":1716,
+    "iso:country":"GP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3579232: name \"Beaus\u00e9jour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3579232"
+        },
+        {
+            "citation":"GeoNames populated place 3579232: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3579232"
+        },
+        {
+            "citation":"GeoNames populated place 3579232: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3579232"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 890420195 (Arrondissement de Pointe-a-Pitre), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671209,
+        102191581,
+        136253037,
+        890420195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579232
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3d87d7356be3f45423d1f778568bc5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890420195,
+            "locality_id":9895090271,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":9895090271,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Beaus\u00e9jour",
+    "wof:parent_id":890420195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.07375,
+    16.30413,
+    -61.07375,
+    16.30413
+],
+  "geometry": {"coordinates":[-61.07375,16.30413],"type":"Point"}
+}
